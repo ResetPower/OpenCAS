@@ -4,21 +4,21 @@ layout: home
 
 hero:
   name: "OpenCAS"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  text: "Facilitates Calculation"
+  tagline: An Open-Source Computer Algebra System
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: What is OpenCAS?
+      link: /what-is-opencas
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Quickstart
+      link: /quickstart
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Feature Alpha
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  - title: Feature Beta
+    details: Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  - title: Feature Gamma
+    details: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 ---

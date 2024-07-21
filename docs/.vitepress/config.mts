@@ -2,19 +2,19 @@ import { defineConfig } from "vitepress";
 
 export default defineConfig({
   title: "OpenCAS",
-  description: "An Open-Source Computer Algebra System.",
+  description: "An Open-Source Computer Algebra System",
   themeConfig: {
     nav: [
       { text: "Home", link: "/" },
-      { text: "Examples", link: "/markdown-examples" },
+      { text: "Documents", link: "/what-is-opencas" },
     ],
 
     sidebar: [
       {
-        text: "Examples",
+        text: "Introduction",
         items: [
-          { text: "Markdown Examples", link: "/markdown-examples" },
-          { text: "Runtime API Examples", link: "/api-examples" },
+          { text: "What is OpenCAS?", link: "/what-is-opencas" },
+          { text: "Quickstart", link: "/quickstart" },
         ],
       },
     ],
